@@ -1,1 +1,2 @@
  traiter la sol1
+ traiter la sol2
